@@ -46,3 +46,4 @@ amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
 aws-exports.js
+src/graphql
