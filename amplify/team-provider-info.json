@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-edgebacktesting-dev-161101-authRole",
+      "UnauthRoleArn": "arn:aws:iam::029823583194:role/amplify-edgebacktesting-dev-161101-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::029823583194:role/amplify-edgebacktesting-dev-161101-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-edgebacktesting-dev-161101-deployment",
+      "UnauthRoleName": "amplify-edgebacktesting-dev-161101-unauthRole",
+      "StackName": "amplify-edgebacktesting-dev-161101",
+      "StackId": "arn:aws:cloudformation:eu-west-2:029823583194:stack/amplify-edgebacktesting-dev-161101/771651f0-9c6a-11eb-872a-06e4688f56d2",
+      "AmplifyAppId": "d2uk65h7izv5z4"
+    }
+  }
+}
