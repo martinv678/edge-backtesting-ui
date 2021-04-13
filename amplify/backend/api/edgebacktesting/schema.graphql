@@ -1,0 +1,9 @@
+type Account @model {
+  accountCurrency: String!
+  id: ID!
+  name: String!
+  startingBalance: Float!
+  currentBalance: Float
+  leverage: Int
+  description: String
+}
