@@ -1,5 +1,6 @@
-type Account @model {
+type Account @model @auth(rules: [{ allow: owner }]) {
   accountCurrency: String!
+  createdAt: AWSDateTime!
   id: ID!
   name: String!
   startingBalance: Float!
